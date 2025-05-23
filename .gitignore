@@ -1,2 +1,3 @@
 .venv/
 monitor/node_modules/
+build/
